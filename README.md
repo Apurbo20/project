@@ -5,4 +5,4 @@
 - Context api was used to get data easily from all the route
 - Used Private Route, Google SignIn and Email Sign in , Sign Up for Authentication
 - After Sign in user name and image show the Navber
-- more to comewith live site stay tuned!!
+- more to come with live site stay tuned!!
